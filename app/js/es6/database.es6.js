@@ -1,0 +1,2 @@
+/* exported pets */
+var pets = [];
